@@ -1,0 +1,10 @@
+# Code Execution.md
+![scanner1](https://user-images.githubusercontent.com/25238652/122015956-8e21d780-cdfb-11eb-8338-99d6039b3680.PNG)
+![scanner2](https://user-images.githubusercontent.com/25238652/122015961-8f530480-cdfb-11eb-9d87-67ca6796e583.PNG)
+![scanner3](https://user-images.githubusercontent.com/25238652/122015966-90843180-cdfb-11eb-9d8a-9356d545f8b4.PNG)
+![scanner4](https://user-images.githubusercontent.com/25238652/122015972-911cc800-cdfb-11eb-9257-0ceb0fd0578f.PNG)
+![scannercde](https://user-images.githubusercontent.com/25238652/122015980-9417b880-cdfb-11eb-9d8a-e245b7da6a31.PNG)
+![scanner 11](https://user-images.githubusercontent.com/25238652/122016052-a42f9800-cdfb-11eb-90f6-8982de40c3cf.PNG)
+![scann22](https://user-images.githubusercontent.com/25238652/122016056-a4c82e80-cdfb-11eb-8fa3-c6cece7dcee5.PNG)
+![scanner33](https://user-images.githubusercontent.com/25238652/122016059-a560c500-cdfb-11eb-9abf-fc8d5e777e28.PNG)
+![scanner theroy](https://user-images.githubusercontent.com/25238652/122016064-a5f95b80-cdfb-11eb-854b-c51969866435.PNG)
